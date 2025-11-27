@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Graphics/Background_L1.png</file>
+        <file>Graphics/Tayar.png</file>
+    </qresource>
+</RCC>
